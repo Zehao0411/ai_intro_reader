@@ -1,0 +1,47 @@
+{
+  "llm_settings": {
+    "model": "qwen-plus",
+    "temperature": 0,
+    "max_tokens": 16000,
+    "top_p": 0.8
+  },
+  "extraction_settings": {
+    "case_sensitive": false,
+    "fuzzy_matching": true,
+    "max_intro_length": 32000,
+    "fallback_intro_length": 20000,
+    "search_flexibility": true
+  },
+  "output_settings": {
+    "save_raw_intros": true,
+    "markdown_format": true,
+    "include_metadata": true,
+    "rate_limit_delay": 0.2
+  },
+  "prompt_template": {
+    "theoretical": {
+      "system_instruction": "You are an expert economist analyzing theoretical research papers. Focus on economic insights, theoretical contributions, and conceptual frameworks rather than technical details.",
+      "analysis_sections": [
+        "Research Problem",
+        "Significance & Motivation",
+        "Main Findings & Intuition", 
+        "Model Setup & Assumptions",
+        "Methodological Contributions",
+        "Policy Implications",
+        "Key Insights"
+      ]
+    },
+    "empirical": {
+      "system_instruction": "You are an expert economist analyzing empirical research papers. Focus on data, methodology, identification strategies, and empirical findings rather than technical details.",
+      "analysis_sections": [
+        "Research Question",
+        "Significance & Motivation",
+        "Main Findings",
+        "Data",
+        "Identification Strategy",
+        "Robustness & Limitations",
+        "Policy Implications"
+      ]
+    }
+  }
+} 

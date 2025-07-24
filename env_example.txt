@@ -1,0 +1,9 @@
+# Copy this file to .env and replace with your actual API key
+# Get your API key from: https://dashscope.console.aliyun.com/
+
+DASHSCOPE_API_KEY=your-tongyi-qwen-api-key-here
+
+# Instructions:
+# 1. Copy this file: cp env_example.txt .env
+# 2. Edit .env and replace "your-tongyi-qwen-api-key-here" with your actual API key
+# 3. The .env file will be automatically loaded by the scripts 

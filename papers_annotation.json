@@ -1,0 +1,51 @@
+{
+  "Ager et al.(2022).pdf": {
+    "title": "Ager et al.(2022)",
+    "type": "empirical",
+    "start_of_intro": "Humans are social animals",
+    "end_of_intro": "In this section we describe the setting ",
+    "notes": ""
+  },
+  "Allcott et al. (2020).pdf": {
+    "title": "Allcott et al. (2020)",
+    "type": "empirical",
+    "start_of_intro": "Social media have had profound impacts on the modern",
+    "end_of_intro": "summarizes our experimental design and time line",
+    "notes": ""
+  },
+  "Barwick et al. (2024).pdf": {
+    "title": "Barwick et al. (2024)",
+    "type": "empirical",
+    "start_of_intro": "Mobile apps have brought significant convenient",
+    "end_of_intro": "Mobile Apps and Game Restriction Policy ",
+    "notes": ""
+  },
+  "Bursztyn and Jensen (2015).pdf": {
+    "title": "Bursztyn and Jensen (2015)",
+    "type": "empirical",
+    "start_of_intro": "It has long been suggested that students may be motivated a",
+    "end_of_intro": "Many schools use in-class, computer-based learning",
+    "notes": ""
+  },
+  "Ide and Talamas - 2025 - Artificial Intelligence in the Knowledge Economy.pdf": {
+    "title": "Ide and Talamas - 2025 - Artificial Intelligence in the Knowledge Economy",
+    "type": "theoretical",
+    "start_of_intro": "Recent developments in Artificial Intelligence (AI) are driving a new wave ",
+    "end_of_intro": "In this section, we document three key developments in modern AI that ar",
+    "notes": ""
+  },
+  "Imas and Madarasz (2020).pdf": {
+    "title": "Imas and Madarasz (2020)",
+    "type": "theoretical",
+    "start_of_intro": "The value a person attaches to an object is often determined",
+    "end_of_intro": "In this Section, we develop our basic model of mimetic dominance-seeking",
+    "notes": ""
+  },
+  "McElheran et al. (2024).pdf": {
+    "title": "McElheran et al. (2024)",
+    "type": "empirical",
+    "start_of_intro": "Artificial intelligence (AI) may spark a revolution in business a",
+    "end_of_intro": "Our framework for exploring the prevalence and implications ",
+    "notes": ""
+  }
+}
